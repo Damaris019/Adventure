@@ -17,7 +17,7 @@
 -->
 
 # The Watcher of Gull Isle
-by: CS 1101
+by: Damaris leal, Miguel Manfre, Miguel Torres
 theme: paper
 
 ## dock
