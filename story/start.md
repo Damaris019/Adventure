@@ -16,7 +16,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-# The Last Light on Gull Island
+# The Watcher of Gull Isle
 by: CS 1101
 theme: paper
 
