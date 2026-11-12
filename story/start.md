@@ -23,11 +23,9 @@ theme: paper
 ## dock
 ![A small rocky island at dusk, with a dark lighthouse on the cliff](images/island.svg)
 
-The ferry leaves you on a crooked wooden dock and chugs off into the fog. You are the new lighthouse keeper of Gull Island, and this is your first night on the job.
+The ferry’s chug fades into heavy fog. High above on the dark cliff, Gull Isle's lighthouse looms completely dead. It should have been lit an hour ago.
 
-Up on the cliff, the lighthouse is dark. It should have been lit an hour ago.
-
-Somewhere out in the fog, a ship's horn sounds. Then another, closer.
+Out in the blinding murk, a ship's horn bellows—urgent, raw, and alarmingly close. A second horn answers immediately from a different angle.
 
 [Find a way to get that light working](#crossroads)
 
