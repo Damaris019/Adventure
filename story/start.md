@@ -17,7 +17,7 @@
 -->
 
 # The Watcher of Gull Isle
-by: Damaris leal, Miguel Manfre, Miguel Torres
+by: Damaris leal, Miguel Manfre, Miguel Torres, Ryan Garcia
 theme: paper
 
 ## dock
