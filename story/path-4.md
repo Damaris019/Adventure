@@ -24,7 +24,7 @@
 by: Ryan Garcia
 
 ## path-4
-Up close, the lighthouse is taller than it looked. Its white paint is peeling, and the great lamp room at the top is completely dark. The door is thick oak with an iron lock.
+At the door of the light house, you begin to gaze up words in pure shock of the size of the lighthouse.
 
 [Unlock the door](#stairs) if iron key
 [Knock and hope someone answers](#knock)
@@ -33,18 +33,18 @@ Up close, the lighthouse is taller than it looked. Its white paint is peeling, a
 ## knock
 You knock. The sound echoes up the inside of the tower. Nobody answers.
 
-Of course nobody answers. You're the keeper.
+Of course nobody answers. you're the keeper
 
 [Step back](#path-4)
 
 ## stairs
-The key turns with a groan. Inside, a spiral staircase winds up into total darkness.
+The key turns with a sequel of the door. Inside, a spiral staircase winds up into total darkness.
 
 [Climb in the dark](#fall)
 [Light your lantern and climb](#lamp-room) if lantern
 
 ## fall
-Somewhere past step one hundred, your foot finds nothing at all. You sit down hard and decide to wait for morning.
+Somewhere past what feels like your hundredth step, your foot sits on air. You sit down confuced and decide to wait for morning.
 
 The ship gets past the rocks, just barely. The next day, its captain sends you a very angry letter.
 
