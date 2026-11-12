@@ -35,3 +35,4 @@ Gulls wheel overhead, their sharp cries piercing the damp air as you stand at th
 [Walk up the hill to the village](#path-1)
 [Take the windy trail along the cliffs](#path-2)
 [Head down to the beach](#path-3)
+[Go straight to the lighthouse](#path-4)
