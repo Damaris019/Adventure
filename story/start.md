@@ -30,7 +30,7 @@ Out in the blinding murk, a ship's horn bellows—urgent, raw, and alarmingly cl
 [Find a way to get that light working](#crossroads)
 
 ## crossroads
-You stand where the island's paths meet. Gulls complain from every roof and rock, and the dark tower watches over all of it.
+Gulls wheel overhead, their sharp cries piercing the damp air as you stand at the island's crossroads. The dark silhouette of the tower looms above, brooding over the restless sea.
 
 [Walk up the hill to the village](#path-1)
 [Take the windy trail along the cliffs](#path-2)
