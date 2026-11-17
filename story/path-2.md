@@ -41,9 +41,9 @@ By the time you climb out, the night is over.
 THE END
 
 ## cave
-A few steps in, the daylight gives up. You hear dripping water and, deeper in, something that might be wings.
+A few steps in, darkness swallows the cave. water drips somewhere ahead, and deeper inside , you hear the faint flutter of wings .
 
-It's far too dark to go further without a light.
+Without a light, going farther would far too dangerous.
 
 [Light your lantern and go deeper](#deep-cave) if lantern
 [Back out into the wind](#path-2)
