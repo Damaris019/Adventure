@@ -23,52 +23,61 @@
 by: Miguel Torres
 
 ## path-3
-The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.
+A torn fishing net washes onto the beach as you reach the shore. Farther out, a wreck leans against the rocks. Something inside flashes whenever the waves lift it.
 
-The name on its side is almost worn away: *Abernathy's Pride*.
+Near your feet, a wooden sign reads: "Danger. Rising tide."
 
 [Wade out to the wreck](#wreck)
-[Build a sandcastle](#sandcastle)
+[Build a sand signal for the ship](#sandcastle)
 [Go back to the crossroads](#crossroads)
 
 ## sandcastle
-It's a very good sandcastle: four towers, a moat, and a flag made from a gull feather. You lose track of time completely.
+You pile wet sand into a tall mound and plant a piece of driftwood at the top. You tie your jacket to it, hoping the ship's crew will notice it.
 
-When you finally look up, the fog has cleared and the sun is rising.
+But the fog hides your signal. A wave knocks down the mound, and you spend the rest of the night trying to rebuild it.
+
+At sunrise, you see the ship anchored offshore. The crew stayed away from the island, but your signal never reached them.
 
 THE END
 
 ## wreck
-The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key.
+You climb onto the tilted deck and follow the flashing light. It comes from a metal box swinging beneath the steering wheel.
+
+Inside, you find a heavy iron key attached to a tag that says "Spare lighthouse key."
 
 get: iron key
 
-Beside the iron key, you find a small silver key marked with an anchor.
+A smaller silver key is tucked beneath the tag. An anchor is stamped into its handle.
 
 get: silver key
 
-The tide is starting to come back in.
+A wave hits the wreck, making the floor shift beneath you.
 
-[Hurry back to shore](#path-3)
-[Keep searching the wreck](#wreck-deeper)
+[Take the keys back to shore](#path-3)
+[Search below the broken deck](#wreck-deeper)
 
 ## wreck-deeper
-Behind a broken seat, you discover a locked chest with an anchor carved into its lid. Water is rising around your legs.
+Through a hole in the deck, you spot a chest caught between two beams. Its lock has the same anchor symbol as the silver key.
 
-[Unlock the chest](#wreck-treasure) if silver key
+Water pours through the damaged hull. You have time to try the lock, but staying much longer would be dangerous.
+
+[Open the chest with the silver key](#wreck-treasure) if silver key
 [Leave the chest and swim to shore](#swim)
 
 ## swim
-You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
+You jump clear of the wreck and swim toward the beach. A strong wave pushes you sideways, but you grab a rock and pull yourself into shallow water.
 
-[Catch your breath](#path-3)
+You reach the sand, coughing and exhausted. Anything you were carrying is still secured in your pockets.
+
+[Rest on the beach](#path-3)
 
 ## wreck-treasure
-The silver key fits. Inside the chest, you find a waterproof pouch filled with old gold coins and a letter from the ship's captain.
+You unlock the chest and find a sealed pouch of coins beside a delivery note. The money was meant to buy a rescue boat for the village, but it never arrived.
 
-You grab the pouch and swim back to shore before the wreck disappears beneath the waves.
+You tuck the pouch and note inside your coat and escape through the hole in the deck.
 
-The letter asks whoever finds the coins to give them to the village to repair its storm-damaged homes. By morning, you deliver the treasure to the grateful villagers.
+By morning, you reach the harbor office and hand over what you found. The harbor master reads the note twice.
+
+"We thought this was lost forever," she says. "Now we can finally replace our rescue boat."
 
 THE END
-
