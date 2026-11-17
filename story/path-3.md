@@ -72,6 +72,3 @@ The letter asks whoever finds the coins to give them to the village to repair it
 
 THE END
 
-You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
-
-[Catch your breath](#path-3)
