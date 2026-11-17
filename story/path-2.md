@@ -24,9 +24,9 @@
 by: Damaris Leal
 
 ## path-2
-The cliff trail is narrow, and the wind shoves at you like it wants you gone. Far below, waves smash white against the rocks.
+The trail shrinks to a razor’s edge above a roaring abyss, the gale clawing to hurl you into the storm-whipped sea below.
 
-Halfway along, a dark cave opens into the cliff.
+Halfway across, the mountain yawns into a shadow-drenched maw, breathing out furnace heat, blood-rust, and the heavy ring of iron dragging across stone.
 
 [Look over the edge](#cliff-edge)
 [Step into the cave](#cave)
