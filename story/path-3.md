@@ -20,7 +20,6 @@
 
   Lines inside these comment marks are notes. Players never see them.
 -->
-
 by: Miguel Torres
 
 ## path-3
@@ -44,19 +43,35 @@ The water is freezing. You climb into the wreck and find a rusty tin box wedged 
 
 get: iron key
 
+Beside the iron key, you find a small silver key marked with an anchor.
+
+get: silver key
+
 The tide is starting to come back in.
 
 [Hurry back to shore](#path-3)
 [Keep searching the wreck](#wreck-deeper)
 
 ## wreck-deeper
-You find a bent spoon, half a boot, and a crab who does not want to be found.
+Behind a broken seat, you discover a locked chest with an anchor carved into its lid. Water is rising around your legs.
 
-When you turn around, the water is up to your chest.
-
-[Swim for it](#swim)
+[Unlock the chest](#wreck-treasure) if silver key
+[Leave the chest and swim to shore](#swim)
 
 ## swim
+You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
+
+[Catch your breath](#path-3)
+
+## wreck-treasure
+The silver key fits. Inside the chest, you find a waterproof pouch filled with old gold coins and a letter from the ship's captain.
+
+You grab the pouch and swim back to shore before the wreck disappears beneath the waves.
+
+The letter asks whoever finds the coins to give them to the village to repair its storm-damaged homes. By morning, you deliver the treasure to the grateful villagers.
+
+THE END
+
 You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
 
 [Catch your breath](#path-3)
