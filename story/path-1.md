@@ -23,6 +23,7 @@
 
 by: Miguel Manfre
 
+
 ## path-1
 The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
 
@@ -56,4 +57,25 @@ An old man opens the door just a crack. "Abernathy," he says. "I kept that light
 
 "The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
 
+He hands you a small brass key. "There's a signal flare in my locked shed. You could use it to warn the ship."
+
+get: brass key
+
+[Go to the keeper's shed](#keeper-shed)
 [Go back to the crossroads](#crossroads)
+
+## keeper-shed
+Behind the keeper's house stands a wooden shed. Through its window, you can see a red signal flare, but the door is locked.
+
+[Unlock the shed and take the flare](#flare-ending) if brass key
+[Return to the keeper's house](#old-keeper)
+[Go back to the crossroads](#crossroads)
+
+## flare-ending
+You unlock the shed and take the signal flare. Outside, you aim it above the water and fire.
+
+Red light cuts through the fog. The ship's captain spots the warning and turns away from the rocks.
+
+The old keeper smiles. "Not bad for your first night."
+
+THE END
