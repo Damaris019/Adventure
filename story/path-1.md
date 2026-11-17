@@ -23,41 +23,44 @@
 
 by: Miguel Manfre
 
-
 ## path-1
-The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
+You reach the village as a ship's horn sounds through the fog. Nobody is outside, but you smell fresh bread coming from a small bakery.
 
-A little sign on the house next door says KEEPER in faded paint.
+Next door, an old man watches the dark lighthouse from his window. A faded sign above his door says KEEPER.
 
 [Knock on the bakery door](#bakery)
 [Knock on the keeper's house](#old-keeper)
 [Go back to the crossroads](#crossroads)
 
 ## bakery
-Rosa the baker opens the door in a cloud of flour. "You're the new keeper? Then you'll want this. The tower stairs are black as a boot at night."
+Rosa opens the door before you can knock twice. "I heard the ship too," she says. "You won't get far out there without a light."
 
-She hands you an old brass lantern.
+She takes a brass lantern off a hook, lights it, and hands it to you.
 
 get: lantern
 
-"There's pie, if you'd like some," she adds. "Blackberry."
+On the counter sits a freshly baked apple pie. You haven't eaten since leaving the mainland.
 
 [Stay for a slice of pie](#pie)
 [Thank her and head back out](#path-1)
 
 ## pie
-The pie is warm, and the chair by the oven is soft. You close your eyes for just a moment.
+You sit down and promise yourself you'll only stay a minute. After eating, you lean back beside the warm oven and fall asleep.
 
-When you open them, it's morning. The ship made it past the rocks by pure luck, and the harbor master is waiting outside with a very long list of complaints.
+A loud knock wakes you at sunrise. The ship's captain has reached the village after spending the night anchored offshore.
+
+"We waited all night for a light," she says. You look down at your empty plate, wishing you had kept moving.
 
 THE END
 
 ## old-keeper
-An old man opens the door just a crack. "Abernathy," he says. "I kept that light for forty years."
+The old man introduces himself as Abernathy. A chart of the island covers his kitchen table.
 
-"The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
+"I can't climb those lighthouse stairs anymore," he says. "But we can still warn that ship."
 
-He hands you a small brass key. "There's a signal flare in my locked shed. You could use it to warn the ship."
+He gives you a brass key and points through the back window.
+
+"My emergency flare is in the shed. Get it and fire it toward open sky where the captain can see it."
 
 get: brass key
 
@@ -65,17 +68,21 @@ get: brass key
 [Go back to the crossroads](#crossroads)
 
 ## keeper-shed
-Behind the keeper's house stands a wooden shed. Through its window, you can see a red signal flare, but the door is locked.
+You follow a muddy trail behind the house. The shed door rattles in the wind, but a brass padlock holds it shut.
+
+Through a gap in the boards, you spot a red flare case on a shelf.
 
 [Unlock the shed and take the flare](#flare-ending) if brass key
 [Return to the keeper's house](#old-keeper)
 [Go back to the crossroads](#crossroads)
 
 ## flare-ending
-You unlock the shed and take the signal flare. Outside, you aim it above the water and fire.
+You open the padlock and take the flare outside. Following the instructions on its case, you launch it into the sky.
 
-Red light cuts through the fog. The ship's captain spots the warning and turns away from the rocks.
+A bright red glow spreads above the village. Moments later, the ship sounds its horn and turns away from the dangerous shoreline.
 
-The old keeper smiles. "Not bad for your first night."
+Abernathy reaches the gate just in time to see it.
+
+"You gave them the warning they needed," he says.
 
 THE END
