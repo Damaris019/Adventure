@@ -23,38 +23,105 @@
 
 by: Ryan Garcia
 
-## path-4
-At the door of the light house, you begin to gaze up words in pure shock of the size of the lighthouse.
+## arival
+You arrive at the edge of a quiet beach. In the distance, you see a tall lighthouse. Its light has stopped shining, and a thick fog is beginning to cover the ocean.
 
-[Unlock the door](#stairs) if iron key
-[Knock and hope someone answers](#knock)
-[Go back to the crossroads](#crossroads)
+You realize that a ship could crash into the rocks if the lighthouse stays dark.
 
-## knock
-You knock. The sound echoes up the inside of the tower. Nobody answers.
+[Search the nearby beach](#key-shore)
+[Walk toward the lighthouse door](#lighthouse-door)
+[Leave and return to the crossroads](#crossroads)
 
-Of course nobody answers. you're the keeper
+## key-shore
+You walk along the beach, searching through the sand and rocks.
 
-[Step back](#path-4)
+Something shiny catches your attention. You reach down and discover an old iron key.
 
-## stairs
-The key turns with a sequel of the door. Inside, a spiral staircase winds up into total darkness.
+get: iron-key
 
-[Climb in the dark](#fall)
-[Light your lantern and climb](#lamp-room) if lantern
+You pick up the key, hoping it will unlock the lighthouse.
 
-## fall
-Somewhere past what feels like your hundredth step, your foot sits on air. You sit down confuced and decide to wait for morning.
+[Head back to the lighthouse](#lighthouse-door)
 
-The ship gets past the rocks, just barely. The next day, its captain sends you a very angry letter.
+## lighthouse-door
+You arrive at the lighthouse entrance. The wooden door is old, and a rusty lock holds it shut.
+
+[Unlock the door with the iron key](#lighthouse-stairs) if iron-key
+[Knock and hope someone answers](#lighthouse-knock)
+[Go back to the beach](#key-shore)
+
+## lighthouse-knock
+You knock on the wooden door. The sound echoes throughout the lighthouse, but nobody answers.
+
+You wait a few seconds before realizing that nobody is coming to open the door.
+
+[Try the door again](#lighthouse-door)
+[Give up and leave the lighthouse](#lighthouse-ending)
+
+## lighthouse-stairs
+The iron key turns, and the door slowly opens.
+
+Inside, you discover a spiral staircase that leads to the top of the lighthouse. It is extremely dark, and you can barely see the steps.
+
+[Climb the staircase carefully](#lighthouse-lamp-room)
+[Turn back and leave](#lighthouse-door)
+
+## lighthouse-lamp-room
+You finally reach the top of the lighthouse. In front of you is a large lamp surrounded by glass prisms.
+
+You open the small door at its base and turn the brass valve. The lamp slowly begins to glow.
+
+Suddenly, the light shines across the ocean, cutting through the thick fog.
+
+Far away, you hear a ship's horn blow twice. The ship has safely found its way around the rocks.
+
+You have successfully saved the ship!
 
 THE END
 
-## lamp-room
-At the top, the great lamp sits inside a cage of glass prisms. You open the little door at its base, turn the brass valve, and touch your lantern's flame to the wick.
+## lighthouse-ending
+You decide that entering the lighthouse is too dangerous and leave the area.
 
-The light blooms. The prisms catch it and throw it out across the water in a slow, turning beam.
+As you walk away, you hear a loud crash in the distance. The ship was unable to see the rocks through the fog.
 
-Far out in the fog, a ship's horn answers with two long blasts. *Thank you.*
+You realize that you should have tried harder to restore the lighthouse.
+
+THE ENDto the crossroads](#crossroads)
+
+## lighthouse-stairs
+The iron key turns, and the door slowly opens.
+
+Inside, you discover a spiral staircase that leads to the top of the lighthouse. It is extremely dark, and you can barely see the steps.
+
+[Climb the staircase carefully](#lighthouse-lamp-room)
+[Turn back and leave](#lighthouse-door)
+
+## lighthouse-lamp-room
+You finally reach the top of the lighthouse. In front of you is a large lamp surrounded by glass prisms.
+
+You open the small door at its base and turn the brass valve. The lamp slowly begins to glow.
+
+Suddenly, the light shines across the ocean, cutting through the thick fog.
+
+Far away, you hear a ship's horn blow twice. The ship has safely found its way around the rocks.
+
+You have successfully saved the ship!
+
+THE END
+
+## lighthouse-ending
+You decide that entering the lighthouse is too dangerous and return to the crossroads.
+
+As you walk away, you hear a loud crash in the distance. The ship was unable to see the rocks through the fog.
+
+You realize that you should have tried harder to restore the lighthouse.
+
+## lighthouse-knock
+You knock on the wooden door. The sound echoes throughout the lighthouse, but nobody answers.
+
+You wait a few seconds before realizing that nobody is coming to open the door.
+
+[Step away from the door](#lighthouse-door)
+[Give up and leave the lighthouse](#lighthouse-ending)
 
 THE END
