@@ -23,7 +23,7 @@
 
 by: Ryan Garcia
 
-## arival
+## path-4
 You arrive at the edge of a quiet beach. In the distance, you see a tall lighthouse. Its light has stopped shining, and a thick fog is beginning to cover the ocean.
 
 You realize that a ship could crash into the rocks if the lighthouse stays dark.
