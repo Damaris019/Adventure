@@ -58,10 +58,10 @@ In the biggest nest sits a gull wearing a tiny golden crown. She stares at you. 
 [Back away slowly](#path-2)
 
 ## gull-queen
-The Gull Queen nods once. Every gull in the cave rises together and pours out into the night.
+The Gull Queen gave a single nod. At once every gull took flight, pouring from the cave into the night.
 
-They circle the dark tower, a thousand white wings shining in the fog, so bright that the ship's captain sees them and steers clear of the rocks.
+They swirled around the dark tower, their white wings glowing through the fog. Far below, a ship's captain spotted regular gulls once they were in the light.
 
-Nobody in the village will ever believe you.
+Nobody in the village would ever believe your story.
 
 THE END
