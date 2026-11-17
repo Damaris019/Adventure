@@ -32,9 +32,11 @@ Halfway across, a dark cave split the mountainside scrape of iron dragging over 
 [Go back to the crossroads](#crossroads)
 
 ## cliff-edge
-You lean out for a better look. The ground at the edge is softer than it looked.
+You lean out for a closer look. The ground beneath you crumbles.
 
-It gives way. You slide, bounce, and land with a splash in a deep pool between the rocks: soaked, furious, and completely unhurt. By the time you've climbed out, the night is over.
+With a yelp , you slide down the slope and plunged into a deep pool in between the rock. Soaked But unharmed, you drag yourself ashore.
+
+By the time you climb out, the night is over.
 
 THE END
 
