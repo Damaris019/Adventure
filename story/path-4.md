@@ -69,7 +69,7 @@ Inside, you discover a spiral staircase that leads to the top of the lighthouse.
 ## lighthouse-lamp-room
 You finally reach the top of the lighthouse. In front of you is a large lamp surrounded by glass prisms.
 
-You open the small door at its base and turn the brass valve. The lamp slowly begins to glow.
+You open the small door at and turn the brass valve. The lamp slowly begins to glow.
 
 Suddenly, the light shines across the ocean, cutting through the thick fog.
 
