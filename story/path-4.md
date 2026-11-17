@@ -86,42 +86,4 @@ As you walk away, you hear a loud crash in the distance. The ship was unable to 
 
 You realize that you should have tried harder to restore the lighthouse.
 
-THE ENDto the crossroads](#crossroads)
-
-## lighthouse-stairs
-The iron key turns, and the door slowly opens.
-
-Inside, you discover a spiral staircase that leads to the top of the lighthouse. It is extremely dark, and you can barely see the steps.
-
-[Climb the staircase carefully](#lighthouse-lamp-room)
-[Turn back and leave](#lighthouse-door)
-
-## lighthouse-lamp-room
-You finally reach the top of the lighthouse. In front of you is a large lamp surrounded by glass prisms.
-
-You open the small door at its base and turn the brass valve. The lamp slowly begins to glow.
-
-Suddenly, the light shines across the ocean, cutting through the thick fog.
-
-Far away, you hear a ship's horn blow twice. The ship has safely found its way around the rocks.
-
-You have successfully saved the ship!
-
-THE END
-
-## lighthouse-ending
-You decide that entering the lighthouse is too dangerous and return to the crossroads.
-
-As you walk away, you hear a loud crash in the distance. The ship was unable to see the rocks through the fog.
-
-You realize that you should have tried harder to restore the lighthouse.
-
-## lighthouse-knock
-You knock on the wooden door. The sound echoes throughout the lighthouse, but nobody answers.
-
-You wait a few seconds before realizing that nobody is coming to open the door.
-
-[Step away from the door](#lighthouse-door)
-[Give up and leave the lighthouse](#lighthouse-ending)
-
 THE END
