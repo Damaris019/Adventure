@@ -49,9 +49,9 @@ Without a light, going farther would far too dangerous.
 [Back out into the wind](#path-2)
 
 ## deep-cave
-Your lantern shows painted walls: ships, waves, and a tall tower with a light at the top. Hundreds of gulls watch you from their nests.
+Your lantern reveals walls covered in paintings of ships, waves, and a tower crowned with light. Around you, hundreds of gulls watch from their nests.
 
-In the biggest nest sits a gull wearing a tiny golden crown. She looks at you. You look at her.
+In the biggest nest sits a gull wearing a tiny golden crown. She stares at you. You stare back. Neither of you moves.
 
 [Bow to the Gull Queen](#gull-queen)
 [Back away slowly](#path-2)
