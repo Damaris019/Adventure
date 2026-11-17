@@ -24,10 +24,9 @@
 by: Damaris Leal
 
 ## path-2
-The trail shrinks to a razor’s edge above a roaring abyss, the gale clawing to hurl you into the storm-whipped sea below.
+The trail narrowed to a razor's edge above a roaring abyss, the gale threating to hurl you into the sea below. 
 
-Halfway across, the mountain yawns into a shadow-drenched maw, breathing out furnace heat, blood-rust, and the heavy ring of iron dragging across stone.
-
+Halfway across, a dark cave split the mountainside scrape of iron dragging over stone and on the other side of the cliff you see something shining.
 [Look over the edge](#cliff-edge)
 [Step into the cave](#cave)
 [Go back to the crossroads](#crossroads)
