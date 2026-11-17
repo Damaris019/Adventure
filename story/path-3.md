@@ -33,15 +33,14 @@ The name on its side is almost worn away: *Abernathy's Pride*.
 [Go back to the crossroads](#crossroads)
 
 ## sandcastle
-It's a very good sandcastle: four towers, a moat, and a flag made from a gull feather. You lose track of time completely.
+It's a very trash sand castle: 2 towers, a broken flag, and water from the shore ruining it. You spend hours and hours trying to get the perfect sand castle because you're a perfectionist, but you were just not cut out to build sandcastles or be an architect. You lose track of time completely.
 
 When you finally look up, the fog has cleared and the sun is rising.
 
 THE END
 
 ## wreck
-The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key.
-
+The water is freezing like the Titanic. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key (not the ONE PIECE, but an iron key).
 get: iron key
 
 The tide is starting to come back in.
@@ -50,7 +49,7 @@ The tide is starting to come back in.
 [Keep searching the wreck](#wreck-deeper)
 
 ## wreck-deeper
-You find a bent spoon, half a boot, and a crab who does not want to be found.
+You find a bent spoon, half a boot, and the Fortnite pirate token.
 
 When you turn around, the water is up to your chest.
 
